@@ -14,11 +14,14 @@ import GSM.*;
 
 public class GSMServerDaemon {
 
+    private GSMSession[] ModemSessions;
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        GSMSession session = new GSMSession();
     }
     
 }
