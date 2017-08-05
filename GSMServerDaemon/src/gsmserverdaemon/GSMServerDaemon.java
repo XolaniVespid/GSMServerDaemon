@@ -9,6 +9,9 @@ package gsmserverdaemon;
  *
  * @author xolani
  */
+
+import GSM.*;
+
 public class GSMServerDaemon {
 
     /**
